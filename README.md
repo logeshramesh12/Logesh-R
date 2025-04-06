@@ -15,7 +15,7 @@ Junior unity developer @ Xminds Info Tech
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
