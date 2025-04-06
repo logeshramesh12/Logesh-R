@@ -6,7 +6,8 @@ Junior unity developer @ Xminds Info Tech
   
 - Engineeing at <img src="https://media.licdn.com/dms/image/v2/C560BAQFFw83LNFyLyg/company-logo_200_200/company-logo_200_200/0/1650079878266/xminds_infotech_pvt_ltd_logo?e=2147483647&v=beta&t=KhL32OySRnODVJlcEmBgAdhGjDNtUS5IUNEKGBp9xI0"  height="24">
 
--Previously worked as an Inter Game Developer at Marlion Games
+- ⚡ Previously worked as an Inter Game Developer at Marlion Games
+  
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br />
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/>
