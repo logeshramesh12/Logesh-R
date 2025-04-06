@@ -4,7 +4,7 @@ Junior unity developer @ Xminds Info Tech
 - 🔭 Here's my [portfolio]()                                                 
 - ⚡ A passionate and dedicated Unity developer with over year of experience specializing in AR/VR development, 2D and 3D games, and WebGL projects.
   
-- Engineeing at [<img src="https://media.licdn.com/dms/image/v2/C560BAQFFw83LNFyLyg/company-logo_200_200/company-logo_200_200/0/1650079878266/xminds_infotech_pvt_ltd_logo?e=2147483647&v=beta&t=KhL32OySRnODVJlcEmBgAdhGjDNtUS5IUNEKGBp9xI0),
+- Engineeing at [<img src="https://media.licdn.com/dms/image/v2/C560BAQFFw83LNFyLyg/company-logo_200_200/company-logo_200_200/0/1650079878266/xminds_infotech_pvt_ltd_logo?e=2147483647&v=beta&t=KhL32OySRnODVJlcEmBgAdhGjDNtUS5IUNEKGBp9xI0"  height="24">]
 -Previously worked as an Inter Game Developer at Marlion Games
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br />
